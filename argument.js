@@ -1,0 +1,4 @@
+module.exports = [
+    1000000,
+    "0x3769C1F158DB28A5a098C00ACC8EE6cdF91B27E3"
+]
